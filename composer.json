@@ -1,5 +1,5 @@
 {
-	"name": "buddypress/buddypress",
+	"name": "pocacoop/buddy-boss-platform",
 	"description": "BuddyPress adds community features to WordPress. Member Profiles, Activity Streams, Direct Messaging, Notifications, and more!",
 	"type": "wordpress-plugin",
 	"keywords": [
